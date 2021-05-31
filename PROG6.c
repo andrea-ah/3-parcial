@@ -35,28 +35,13 @@ do
     {
         continue;
     }
-        else
-    {
-            
+  
+    
+    } 
+    while (respuesta2 != 'N' && respuesta2 != 'n');
+    printf("\n\n Gracias por tu preferencia");
+    return 0;
     }
-        
-        
-        
-        
-        
-        
-        
-        
     
-} while (respuesta2 != 'N' && respuesta2 != 'n');
-printf("\n\n Gracias por tu preferencia");
-printf("\n\n BY: SILEOF SOUND\n\n");
-return 0;
-    
-    
-    
-
-
-    
-    
+       
 }
