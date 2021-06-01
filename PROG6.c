@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Hernandez Acevedo Andrea
+
 //Equipo zener
 //programa de un banco que te muestre cuantas veces has ingresado dinero y cuanto tienes en el
 
@@ -36,12 +36,20 @@ do
         continue;
     }
   
-    
-    } 
-    while (respuesta2 != 'N' && respuesta2 != 'n');
-    printf("\n\n Gracias por tu preferencia");
-    return 0;
+            else
+    {
+            
     }
+        
+        
     
-       
+} while (respuesta2 != 'N' && respuesta2 != 'n');
+printf("\n\n Gracias por tu preferencia");
+
+
+
+return 0;
+    
+   
 }
+   
